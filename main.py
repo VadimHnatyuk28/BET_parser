@@ -19,6 +19,7 @@ for i in data:
 
 data_text = data_text.split()
 
+#
 
 # Ім'я файлу, в який ми збережемо CSV
 csv_filename = 'numbers.csv'
